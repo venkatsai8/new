@@ -1,0 +1,2 @@
+this is the file4 txt format
+here we are performing branch and merging
